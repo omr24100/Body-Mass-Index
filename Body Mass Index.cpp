@@ -1,8 +1,8 @@
 // Body Mass Index.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 /*
-File Name: 
-GitHub URl: 
+File Name: Body Mass Index
+GitHub URl: https://github.com/omr24100/Body-Mass-Index.git
 Programmer: Olivia Ruiz
 Date: 2/26/25
 Requirements:write a program 
